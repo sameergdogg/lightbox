@@ -1,0 +1,10 @@
+.build/
+.swiftpm/
+build/
+DerivedData/
+.DS_Store
+*.sqlite
+# Downloaded weights, if someone keeps them in the repo (lightbox itself stores them in Application Support).
+/Models/
+/models/
+osxphotos_crash.log
